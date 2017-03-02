@@ -10,3 +10,5 @@ category: News
 "*Deleøkonomi i elforsyningen. Det lyder umiddelbart som en lidt umulig idé – men det behøver ikke være, hvis man skal tro professor Pierre Pinson fra DTU Elektro.*"
 
 [Article in Ingeniøren](https://ing.dk/artikel/professor-deleokonomi-pa-vej-elforsyningen-193566)
+
+(Graphic: Ing.dk)

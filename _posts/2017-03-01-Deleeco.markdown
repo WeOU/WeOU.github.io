@@ -7,6 +7,10 @@ modalID: modalNews1
 category: News
 ---
 
+
+
 "*To bofællesskaber i Trekroner vil lave deres eget energimarked. Fysisk er det muligt, men rammebetingelserne mangler.*"
 
 [Article in Ingeniøren](https://ing.dk/artikel/pa-vej-mod-deleokonomi-med-kwh-valuta-194411)
+
+(Foto: Kristian Balle Ravn)

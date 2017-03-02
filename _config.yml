@@ -8,7 +8,7 @@
 # Site settings
 title: WeOU
 email: rethore@weou.org
-description: > We are a small tech start-up focusing on creating a block-chain based energy market solution for local communities and businesses. We have received a national grant to participate into a research project to demonstrate a p2p energy market in a community of positive energy houses, with solar panels, geothermic heat pump and electrical vehicles.
+description: A P2P Blockchain Energy Market solution
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://weou.github.io" # the base hostname & protocol for your site
 

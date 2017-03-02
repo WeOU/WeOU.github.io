@@ -8,7 +8,7 @@
 # Site settings
 title: WeOU
 email: rethore@weou.org
-description: A P2P Blockchain Energy Market solution
+description: A P2P Blockchain Energy Market Solution
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://weou.github.io" # the base hostname & protocol for your site
 

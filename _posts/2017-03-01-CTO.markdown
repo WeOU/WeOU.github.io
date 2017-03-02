@@ -28,4 +28,4 @@ Are you passionate about cutting-edge new technology? Do you like to tinker with
 WeOU IVS is a Danish startup in stealth mode aiming at developing p2p blockchain based energy market solutions to help design, crowdfund and integrate sustainable energy systems in local communities and businesses.
 
 Send us a CV, Letter of motivation and link to previous IT related projects at:
-Pierre-Elouan Réthoré, rethore <at> weou.org
+Pierre-Elouan Réthoré, [rethore@weou.org](mailto:rethore@weou.org)

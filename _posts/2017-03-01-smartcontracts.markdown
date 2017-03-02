@@ -4,7 +4,7 @@ title:  "MSc Thesis <br> Energy Smart contracts"
 date:   2017-03-01 15:08:10 -0500
 img: img/hairy_guy.svg
 modalID: modalSafe
-Category: MScThesis
+category: Job
 ---
 Are you curious about learning how to make Ethereum blockchain-based smart contracts?
 Then come and do your MSc thesis project with us and make history while creating the first blockchain based renewable energy market in our test community.

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "[Ing.dk] Professor: Deleøkonomi på vej i elforsyningen"
+date:   2017-03-01 16:08:10 -0500
+img: img/el-forsyning-topillu_764.png
+modalID: modalNews2
+category: News
+---
+
+"*Deleøkonomi i elforsyningen. Det lyder umiddelbart som en lidt umulig idé – men det behøver ikke være, hvis man skal tro professor Pierre Pinson fra DTU Elektro.*"
+
+[Article in Ingeniøren](https://ing.dk/artikel/professor-deleokonomi-pa-vej-elforsyningen-193566)

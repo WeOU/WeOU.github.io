@@ -4,7 +4,7 @@ title:  "MSc Thesis <br> Energy Data Analysis"
 date:   2017-03-01 15:08:10 -0500
 img: img/androgyn_guy.svg
 modalID: modalSubmarine
-category: MScThesis
+category: Job
 ---
 Do you enjoy doing data science with Python?
 Then come and do your MSc thesis project with us and make history while creating the first blockchain based renewable energy market in our test community.

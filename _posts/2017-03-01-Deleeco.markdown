@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "[Ing.dk] På vej mod deleøkonomi med kWh som valuta"
+date:   2017-03-01 16:08:10 -0500
+img: img/img_1499-16-9.jpg
+modalID: modalNews1
+category: News
+---
+
+"*To bofællesskaber i Trekroner vil lave deres eget energimarked. Fysisk er det muligt, men rammebetingelserne mangler.*"
+
+[Article in Ingeniøren](https://ing.dk/artikel/pa-vej-mod-deleokonomi-med-kwh-valuta-194411)

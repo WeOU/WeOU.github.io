@@ -16,5 +16,4 @@ Then come and do your MSc thesis project with us and make history while creating
 - setting up local and remote databases with a team of researchers
 - data mining together with researchers, PhD students and other MSc students
 ​
-Send us a CV, Letter of motivation and link to previous IT projects at:
-Pierre-Elouan Réthoré, rethore <at> weou.org
+Send us a CV, Letter of motivation and link to previous IT projects at [jobs@weou.org](mailto:jobs@weou.org).

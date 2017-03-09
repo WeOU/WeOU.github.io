@@ -16,5 +16,4 @@ Then come and do your MSc thesis project with us and make history while creating
 - programming Ethereum energy transactions smart contracts
 - designing reactive webUIs prototypes in direct contact with the end-users to gather their feedbacks
 
-Send us a CV, Letter of motivation and link to previous IT projects at:
-Pierre-Elouan Réthoré, rethore <at> weou.org
+Send us a CV, Letter of motivation and link to previous IT projects at [jobs@weou.org](mailto:jobs@weou.org).
